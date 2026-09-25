@@ -1,5 +1,6 @@
-n=int(input("enter the nth term:"))
-i=0
-while i<n+1:
+n = int(input("enter the nth term: "))
+i = 1
+
+while i <= n:
     print(i)
-    i+=1
+    i += 1
